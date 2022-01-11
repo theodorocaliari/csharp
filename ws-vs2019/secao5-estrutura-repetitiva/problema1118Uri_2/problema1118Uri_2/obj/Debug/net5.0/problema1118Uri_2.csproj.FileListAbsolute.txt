@@ -1,0 +1,15 @@
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\problema1118Uri_2.exe
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\problema1118Uri_2.deps.json
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\problema1118Uri_2.runtimeconfig.json
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\problema1118Uri_2.runtimeconfig.dev.json
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\problema1118Uri_2.dll
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\ref\problema1118Uri_2.dll
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\bin\Debug\net5.0\problema1118Uri_2.pdb
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.AssemblyInfoInputs.cache
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.AssemblyInfo.cs
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.csproj.CoreCompileInputs.cache
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.dll
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\ref\problema1118Uri_2.dll
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.pdb
+C:\Users\theod\source\repos\problema1118Uri_2\problema1118Uri_2\obj\Debug\net5.0\problema1118Uri_2.genruntimeconfig.cache

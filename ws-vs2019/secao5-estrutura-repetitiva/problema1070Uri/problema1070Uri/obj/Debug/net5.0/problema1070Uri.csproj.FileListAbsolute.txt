@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\problema1070Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\problema1070Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\problema1070Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\problema1070Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\problema1070Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\ref\problema1070Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\bin\Debug\net5.0\problema1070Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\ref\problema1070Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1070Uri\problema1070Uri\obj\Debug\net5.0\problema1070Uri.genruntimeconfig.cache

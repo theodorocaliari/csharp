@@ -1,0 +1,16 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\problemaExemploFacaEnquanto.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\problemaExemploFacaEnquanto.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\problemaExemploFacaEnquanto.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\problemaExemploFacaEnquanto.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\problemaExemploFacaEnquanto.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\ref\problemaExemploFacaEnquanto.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\bin\Debug\net5.0\problemaExemploFacaEnquanto.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\ref\problemaExemploFacaEnquanto.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problemaExemploFacaEnquanto\problemaExemploFacaEnquanto\obj\Debug\net5.0\problemaExemploFacaEnquanto.genruntimeconfig.cache

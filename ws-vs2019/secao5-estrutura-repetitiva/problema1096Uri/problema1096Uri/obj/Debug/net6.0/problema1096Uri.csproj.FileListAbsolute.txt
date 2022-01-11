@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\bin\Debug\net6.0\problema1096Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\bin\Debug\net6.0\problema1096Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\bin\Debug\net6.0\problema1096Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\bin\Debug\net6.0\problema1096Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\bin\Debug\net6.0\ref\problema1096Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\bin\Debug\net6.0\problema1096Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\ref\problema1096Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1096Uri\problema1096Uri\obj\Debug\net6.0\problema1096Uri.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\problema1154Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\problema1154Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\problema1154Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\problema1154Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\problema1154Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\ref\problema1154Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\bin\Debug\net5.0\problema1154Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\ref\problema1154Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1154Uri\problema1154Uri\obj\Debug\net5.0\problema1154Uri.genruntimeconfig.cache

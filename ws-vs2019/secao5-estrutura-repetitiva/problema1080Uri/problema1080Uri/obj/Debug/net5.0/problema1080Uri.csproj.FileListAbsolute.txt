@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\problema1080Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\problema1080Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\problema1080Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\problema1080Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\problema1080Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\ref\problema1080Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\bin\Debug\net5.0\problema1080Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\ref\problema1080Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1080Uri\problema1080Uri\obj\Debug\net5.0\problema1080Uri.genruntimeconfig.cache

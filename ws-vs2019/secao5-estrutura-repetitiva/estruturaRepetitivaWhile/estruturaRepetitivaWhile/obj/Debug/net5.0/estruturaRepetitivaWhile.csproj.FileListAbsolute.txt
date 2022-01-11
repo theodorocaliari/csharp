@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\estruturaRepetitivaWhile.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\estruturaRepetitivaWhile.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\estruturaRepetitivaWhile.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\estruturaRepetitivaWhile.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\estruturaRepetitivaWhile.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\ref\estruturaRepetitivaWhile.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\bin\Debug\net5.0\estruturaRepetitivaWhile.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\ref\estruturaRepetitivaWhile.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaRepetitivaWhile\estruturaRepetitivaWhile\obj\Debug\net5.0\estruturaRepetitivaWhile.genruntimeconfig.cache

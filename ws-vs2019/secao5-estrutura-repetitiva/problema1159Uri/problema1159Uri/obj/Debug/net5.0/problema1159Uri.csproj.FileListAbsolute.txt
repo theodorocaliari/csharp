@@ -1,0 +1,16 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\problema1159Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\problema1159Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\problema1159Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\problema1159Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\problema1159Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\ref\problema1159Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\bin\Debug\net5.0\problema1159Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\ref\problema1159Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1159Uri\problema1159Uri\obj\Debug\net5.0\problema1159Uri.genruntimeconfig.cache
