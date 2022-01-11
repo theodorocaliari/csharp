@@ -1,0 +1,12 @@
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\bin\Debug\netcoreapp3.1\problema1004Uri.exe
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\bin\Debug\netcoreapp3.1\problema1004Uri.deps.json
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\bin\Debug\netcoreapp3.1\problema1004Uri.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\bin\Debug\netcoreapp3.1\problema1004Uri.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\bin\Debug\netcoreapp3.1\problema1004Uri.dll
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\bin\Debug\netcoreapp3.1\problema1004Uri.pdb
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\obj\Debug\netcoreapp3.1\problema1004Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\obj\Debug\netcoreapp3.1\problema1004Uri.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\obj\Debug\netcoreapp3.1\problema1004Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\obj\Debug\netcoreapp3.1\problema1004Uri.dll
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\obj\Debug\netcoreapp3.1\problema1004Uri.pdb
+D:\estudos\udemy\ws-vs2019\problema1004Uri\problema1004Uri\obj\Debug\netcoreapp3.1\problema1004Uri.genruntimeconfig.cache

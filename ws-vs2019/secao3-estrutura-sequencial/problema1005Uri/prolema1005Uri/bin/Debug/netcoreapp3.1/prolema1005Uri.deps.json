@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prolema1005Uri/1.0.0": {
+        "runtime": {
+          "prolema1005Uri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prolema1005Uri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

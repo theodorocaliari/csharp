@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\bin\Debug\netcoreapp3.1\funcoesMatematicas.exe
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\bin\Debug\netcoreapp3.1\funcoesMatematicas.deps.json
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\bin\Debug\netcoreapp3.1\funcoesMatematicas.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\bin\Debug\netcoreapp3.1\funcoesMatematicas.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\bin\Debug\netcoreapp3.1\funcoesMatematicas.dll
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\bin\Debug\netcoreapp3.1\funcoesMatematicas.pdb
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.csprojAssemblyReference.cache
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.dll
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.pdb
+D:\estudos\udemy\ws-vs2019\funcoesMatematicas\funcoesMatematicas\obj\Debug\netcoreapp3.1\funcoesMatematicas.genruntimeconfig.cache

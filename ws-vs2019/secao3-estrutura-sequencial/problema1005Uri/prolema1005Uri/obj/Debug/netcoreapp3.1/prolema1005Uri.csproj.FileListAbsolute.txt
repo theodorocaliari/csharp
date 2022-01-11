@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\bin\Debug\netcoreapp3.1\prolema1005Uri.exe
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\bin\Debug\netcoreapp3.1\prolema1005Uri.deps.json
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\bin\Debug\netcoreapp3.1\prolema1005Uri.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\bin\Debug\netcoreapp3.1\prolema1005Uri.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\bin\Debug\netcoreapp3.1\prolema1005Uri.dll
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\bin\Debug\netcoreapp3.1\prolema1005Uri.pdb
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.dll
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.pdb
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.genruntimeconfig.cache
+D:\estudos\udemy\ws-vs2019\prolema1005Uri\prolema1005Uri\obj\Debug\netcoreapp3.1\prolema1005Uri.csprojAssemblyReference.cache

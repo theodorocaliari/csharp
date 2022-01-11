@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\bin\Debug\netcoreapp3.1\exercicioResolvido01.exe
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\bin\Debug\netcoreapp3.1\exercicioResolvido01.deps.json
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\bin\Debug\netcoreapp3.1\exercicioResolvido01.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\bin\Debug\netcoreapp3.1\exercicioResolvido01.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\bin\Debug\netcoreapp3.1\exercicioResolvido01.dll
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\bin\Debug\netcoreapp3.1\exercicioResolvido01.pdb
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.csprojAssemblyReference.cache
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.dll
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.pdb
+D:\estudos\udemy\ws-vs2019\exercicioResolvido01\exercicioResolvido01\obj\Debug\netcoreapp3.1\exercicioResolvido01.genruntimeconfig.cache

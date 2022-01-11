@@ -1,0 +1,16 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\problema1019Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\problema1019Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\problema1019Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\problema1019Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\problema1019Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\ref\problema1019Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\bin\Debug\net5.0\problema1019Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\ref\problema1019Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.genruntimeconfig.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1019Uri\problema1019Uri\obj\Debug\net5.0\problema1019Uri.csprojAssemblyReference.cache

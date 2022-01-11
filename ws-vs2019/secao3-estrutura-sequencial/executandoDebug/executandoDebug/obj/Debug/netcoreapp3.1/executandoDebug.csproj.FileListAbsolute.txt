@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\bin\Debug\netcoreapp3.1\executandoDebug.exe
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\bin\Debug\netcoreapp3.1\executandoDebug.deps.json
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\bin\Debug\netcoreapp3.1\executandoDebug.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\bin\Debug\netcoreapp3.1\executandoDebug.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\bin\Debug\netcoreapp3.1\executandoDebug.dll
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\bin\Debug\netcoreapp3.1\executandoDebug.pdb
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.csprojAssemblyReference.cache
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.dll
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.pdb
+D:\estudos\udemy\ws-vs2019\executandoDebug\executandoDebug\obj\Debug\netcoreapp3.1\executandoDebug.genruntimeconfig.cache

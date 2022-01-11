@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\bin\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.exe
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\bin\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.deps.json
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\bin\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\bin\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\bin\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.dll
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\bin\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.pdb
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.csprojAssemblyReference.cache
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.dll
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.pdb
+D:\estudos\udemy\ws-vs2019\entradaDeDadosEMudancaDeTipo\entradaDeDadosEMudancaDeTipo\obj\Debug\netcoreapp3.1\entradaDeDadosEMudancaDeTipo.genruntimeconfig.cache

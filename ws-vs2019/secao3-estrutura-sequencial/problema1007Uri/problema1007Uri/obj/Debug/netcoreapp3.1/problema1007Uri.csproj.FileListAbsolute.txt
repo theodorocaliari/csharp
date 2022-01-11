@@ -1,0 +1,13 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\bin\Debug\netcoreapp3.1\problema1007Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\bin\Debug\netcoreapp3.1\problema1007Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\bin\Debug\netcoreapp3.1\problema1007Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\bin\Debug\netcoreapp3.1\problema1007Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\bin\Debug\netcoreapp3.1\problema1007Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\bin\Debug\netcoreapp3.1\problema1007Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.csprojAssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1007Uri\problema1007Uri\obj\Debug\netcoreapp3.1\problema1007Uri.genruntimeconfig.cache

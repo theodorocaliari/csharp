@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.csprojAssemblyReference.cache
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\bin\Debug\netcoreapp3.1\entradaDeDadosESplit.exe
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\bin\Debug\netcoreapp3.1\entradaDeDadosESplit.deps.json
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\bin\Debug\netcoreapp3.1\entradaDeDadosESplit.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\bin\Debug\netcoreapp3.1\entradaDeDadosESplit.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\bin\Debug\netcoreapp3.1\entradaDeDadosESplit.dll
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\bin\Debug\netcoreapp3.1\entradaDeDadosESplit.pdb
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.dll
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.pdb
+D:\estudos\udemy\ws-vs2019\entradaDeDadosESplit\entradaDeDadosESplit\obj\Debug\netcoreapp3.1\entradaDeDadosESplit.genruntimeconfig.cache

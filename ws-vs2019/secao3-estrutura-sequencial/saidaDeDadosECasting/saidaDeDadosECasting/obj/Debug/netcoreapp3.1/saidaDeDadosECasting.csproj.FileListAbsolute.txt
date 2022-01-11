@@ -1,0 +1,13 @@
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\bin\Debug\netcoreapp3.1\saidaDeDadosECasting.exe
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\bin\Debug\netcoreapp3.1\saidaDeDadosECasting.deps.json
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\bin\Debug\netcoreapp3.1\saidaDeDadosECasting.runtimeconfig.json
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\bin\Debug\netcoreapp3.1\saidaDeDadosECasting.runtimeconfig.dev.json
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\bin\Debug\netcoreapp3.1\saidaDeDadosECasting.dll
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\bin\Debug\netcoreapp3.1\saidaDeDadosECasting.pdb
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.csprojAssemblyReference.cache
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.AssemblyInfoInputs.cache
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.AssemblyInfo.cs
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.dll
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.pdb
+D:\estudos\udemy\ws-vs2019\saidaDeDadosECasting\saidaDeDadosECasting\obj\Debug\netcoreapp3.1\saidaDeDadosECasting.genruntimeconfig.cache
