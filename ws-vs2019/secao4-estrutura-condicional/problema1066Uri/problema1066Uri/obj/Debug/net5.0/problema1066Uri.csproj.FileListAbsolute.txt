@@ -1,0 +1,16 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\problema1066Uri.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\problema1066Uri.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\problema1066Uri.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\problema1066Uri.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\problema1066Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\ref\problema1066Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\bin\Debug\net5.0\problema1066Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\ref\problema1066Uri.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\problema1066Uri\problema1066Uri\obj\Debug\net5.0\problema1066Uri.genruntimeconfig.cache

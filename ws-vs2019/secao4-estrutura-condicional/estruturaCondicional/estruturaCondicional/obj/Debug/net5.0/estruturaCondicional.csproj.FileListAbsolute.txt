@@ -1,0 +1,16 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\estruturaCondicional.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\estruturaCondicional.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\estruturaCondicional.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\estruturaCondicional.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\estruturaCondicional.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\ref\estruturaCondicional.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\bin\Debug\net5.0\estruturaCondicional.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.csprojAssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\ref\estruturaCondicional.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaCondicional\estruturaCondicional\obj\Debug\net5.0\estruturaCondicional.genruntimeconfig.cache

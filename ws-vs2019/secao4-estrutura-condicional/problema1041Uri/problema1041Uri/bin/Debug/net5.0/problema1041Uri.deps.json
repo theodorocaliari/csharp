@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "problema1041Uri/1.0.0": {
+        "runtime": {
+          "problema1041Uri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problema1041Uri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

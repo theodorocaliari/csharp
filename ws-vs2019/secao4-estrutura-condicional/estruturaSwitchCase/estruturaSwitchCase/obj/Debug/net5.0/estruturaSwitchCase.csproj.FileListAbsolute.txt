@@ -1,0 +1,16 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\estruturaSwitchCase.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\estruturaSwitchCase.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\estruturaSwitchCase.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\estruturaSwitchCase.runtimeconfig.dev.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\estruturaSwitchCase.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\ref\estruturaSwitchCase.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\bin\Debug\net5.0\estruturaSwitchCase.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\ref\estruturaSwitchCase.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\estruturaSwitchCase\estruturaSwitchCase\obj\Debug\net5.0\estruturaSwitchCase.genruntimeconfig.cache

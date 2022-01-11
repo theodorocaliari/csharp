@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "estruturaCondicionalExercicioResolvido3/1.0.0": {
+        "runtime": {
+          "estruturaCondicionalExercicioResolvido3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estruturaCondicionalExercicioResolvido3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
