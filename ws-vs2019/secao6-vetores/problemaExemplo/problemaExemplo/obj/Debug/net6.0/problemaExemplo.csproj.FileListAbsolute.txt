@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\bin\Debug\net6.0\problemaExemplo.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\bin\Debug\net6.0\problemaExemplo.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\bin\Debug\net6.0\problemaExemplo.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\bin\Debug\net6.0\problemaExemplo.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\bin\Debug\net6.0\ref\problemaExemplo.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\bin\Debug\net6.0\problemaExemplo.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\ref\problemaExemplo.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\problemaExemplo\problemaExemplo\obj\Debug\net6.0\problemaExemplo.genruntimeconfig.cache

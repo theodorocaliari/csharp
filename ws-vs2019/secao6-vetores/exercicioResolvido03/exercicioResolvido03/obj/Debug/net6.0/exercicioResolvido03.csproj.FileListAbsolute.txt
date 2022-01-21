@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\bin\Debug\net6.0\exercicioResolvido03.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\bin\Debug\net6.0\exercicioResolvido03.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\bin\Debug\net6.0\exercicioResolvido03.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\bin\Debug\net6.0\exercicioResolvido03.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\bin\Debug\net6.0\ref\exercicioResolvido03.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\bin\Debug\net6.0\exercicioResolvido03.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\ref\exercicioResolvido03.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioResolvido03\exercicioResolvido03\obj\Debug\net6.0\exercicioResolvido03.genruntimeconfig.cache
