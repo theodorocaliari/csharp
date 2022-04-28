@@ -1,0 +1,15 @@
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\bin\Debug\net6.0\exercicioProposto07.exe
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\bin\Debug\net6.0\exercicioProposto07.deps.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\bin\Debug\net6.0\exercicioProposto07.runtimeconfig.json
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\bin\Debug\net6.0\exercicioProposto07.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\bin\Debug\net6.0\exercicioProposto07.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.csproj.AssemblyReference.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.AssemblyInfoInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.AssemblyInfo.cs
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.csproj.CoreCompileInputs.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\refint\exercicioProposto07.dll
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.pdb
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\exercicioProposto07.genruntimeconfig.cache
+D:\estudos\udemy\csharp-primeiros-passos\ws-vs2019\secao6-vetores\exercicioProposto07\exercicioProposto07\obj\Debug\net6.0\ref\exercicioProposto07.dll
